@@ -1,4 +1,4 @@
-module script-engine
+module github.com/icyseptember2237/engine
 
 go 1.20
 
